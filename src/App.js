@@ -8,7 +8,7 @@ class App extends Component {
       {
         id: 1,
         title: "Lue maantiedon kokeisiin",
-        completed: false
+        completed: true
       },
 
       {
